@@ -1,0 +1,13 @@
+Via: 1.1 varnish
+Via: 1.1 varnish
+X-Cache: MISS, MISS
+Fastly-Debug-Digest: 737633c406ba4a8c77dd94df5ae7798a90aa2eb6d8bab1af397bdaf69b864f80
+Accept-Ranges: bytes
+X-Timer: S1488314114.141114,VS0,VE69
+Vary: User-Agent, Accept-Encoding
+Server: nginx/1.8.0
+X-Served-By: cache-sea1034-SEA, cache-jfk8120-JFK
+X-Cache-Hits: 0, 0
+Allow: GET, POST, HEAD, PUT, PATCH, DELETE, OPTIONS
+Cache-Control: max-age=10
+Date: Tue, 28 Feb 2017 20:35:14 GMT

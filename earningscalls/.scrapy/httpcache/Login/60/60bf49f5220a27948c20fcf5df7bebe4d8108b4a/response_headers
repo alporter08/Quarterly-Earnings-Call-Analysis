@@ -1,0 +1,15 @@
+Via: 1.1 varnish
+Via: 1.1 varnish
+X-Cache: MISS, MISS
+Fastly-Debug-Digest: 8f27ffcb1767dcdd7e69b6d8343580ab481400ec0f57ca92fcd32be01e83e3cb
+Accept-Ranges: bytes
+X-Timer: S1487902785.841552,VS0,VE72
+Vary: User-Agent, Accept-Encoding
+Server: nginx/1.8.0
+X-Served-By: cache-sea1030-SEA, cache-jfk8143-JFK
+X-Cache-Hits: 0, 0
+Location: http://seekingalpha.com/account/login
+Allow: GET, POST, HEAD, PUT, PATCH, DELETE, OPTIONS
+Date: Fri, 24 Feb 2017 02:19:45 GMT
+Content-Type: text/html
+Age: 0

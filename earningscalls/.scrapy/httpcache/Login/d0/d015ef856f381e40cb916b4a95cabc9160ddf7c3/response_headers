@@ -1,0 +1,24 @@
+X-Request-Id: e8192d4d-7d09-4346-90b1-349f308ed460
+Etag: W/"9a162563751e07e087ec125569523fe3"
+X-Cache-Hits: 0, 1
+X-Frame-Options: SAMEORIGIN
+Status: 200 OK
+X-Served-By: cache-sea1032-SEA, cache-jfk8136-JFK
+X-Runtime: 0.213183
+Date: Fri, 24 Feb 2017 02:19:55 GMT
+Age: 434
+X-Xss-Protection: 1; mode=block
+X-Cache: MISS, HIT
+Sa-Cache: cdn=315576000.0,browser=600
+Accept-Ranges: bytes
+Server: nginx/1.8.0
+Allow: GET, POST, HEAD, PUT, PATCH, DELETE, OPTIONS
+Via: 1.1 varnish
+Via: 1.1 varnish
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Fastly-Debug-Digest: 65ce91863134b986462b1a2e461d4d16bb46a5277e00a9702acbe437d906a095
+X-Timer: S1487902795.822379,VS0,VE2
+Vary: User-Agent, Accept-Encoding
+Cache-Control: max-age=600
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,23 @@
+X-Request-Id: dd3fc605-4229-44fe-8575-39ca50d2faed
+X-Cache-Hits: 0, 0
+Location: http://seekingalpha.com/article/1949801-the-goldman-sachs-groups-management-discusses-q4-2013-results-earnings-call-transcript
+X-Frame-Options: SAMEORIGIN
+Status: 301 Moved Permanently
+X-Served-By: cache-sea1045-SEA, cache-jfk8142-JFK
+X-Runtime: 0.068787
+Date: Tue, 28 Feb 2017 20:35:14 GMT
+Age: 0
+X-Xss-Protection: 1; mode=block
+X-Cache: MISS, MISS
+Sa-Cache: cdn=315576000.0,browser=600
+Accept-Ranges: bytes
+Server: nginx/1.8.0
+Allow: GET, POST, HEAD, PUT, PATCH, DELETE, OPTIONS
+Via: 1.1 varnish
+Via: 1.1 varnish
+X-Content-Type-Options: nosniff
+Fastly-Debug-Digest: 37ac4140f7c26b74d72e5ce6a2dab18493f3356cf4dba48770bf5f356b07956e
+X-Timer: S1488314114.034276,VS0,VE205
+Vary: User-Agent, Accept-Encoding
+Cache-Control: max-age=600
+Content-Type: text/html; charset=utf-8

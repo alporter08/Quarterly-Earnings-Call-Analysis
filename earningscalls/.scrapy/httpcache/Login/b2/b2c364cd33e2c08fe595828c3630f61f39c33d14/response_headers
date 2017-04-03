@@ -1,0 +1,22 @@
+X-Request-Id: 3a0d0758-84fe-433a-a964-bc25e4d609f9
+Etag: W/"d777accf38cc7c4f356bb30fab503702"
+X-Cache-Hits: 0, 0
+X-Frame-Options: SAMEORIGIN
+Status: 200 OK
+X-Served-By: cache-sea1023-SEA, cache-jfk8136-JFK
+X-Proxymesh-Ip: 174.138.76.50
+X-Runtime: 0.054541
+Date: Fri, 03 Mar 2017 17:08:46 GMT
+Age: 72
+X-Xss-Protection: 1; mode=block
+Sa-Cache: cdn=3800,browser=30
+Accept-Ranges: bytes
+Server: nginx/1.8.0
+Allow: GET, POST, HEAD, PUT, PATCH, DELETE, OPTIONS
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Fastly-Debug-Digest: 3aea6b2f4ff23c686f2894cab4a6edd32f695de9b9c24b760992368daefe4050
+X-Timer: S1488560926.339175,VS0,VE63
+Vary: User-Agent, Accept-Encoding
+Cache-Control: max-age=30
+Content-Type: application/json; charset=utf-8
